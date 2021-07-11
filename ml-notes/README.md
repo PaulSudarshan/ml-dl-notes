@@ -1,4 +1,4 @@
-* [Supervised-and-Unsupervised-learning](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/00-Supervised-and-Unsupervised-learning.html)
+* [Supervised-and-Unsupervised-learning](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/00--Supervised-and-Unsupervised-learning.html)
 
 * [Simple-Linear-Regression](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/01-Simple-Linear-Regression.html)
 
