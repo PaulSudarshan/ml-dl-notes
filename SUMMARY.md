@@ -1,3 +1,3 @@
-* [Home](/Readme.md)
-* [Notes](/Notes/Readme.md)
+* [Home](/README.md)
+* [Notes](/Notes/README.md)
 
