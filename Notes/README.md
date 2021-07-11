@@ -1,10 +1,10 @@
-* [Day-1](/Notes/Day_1.html)
+* [Day-1](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_1.html)
   * AI, ML, DL, Types of ML
   * Architecture of ML
   * Linear Regression, Regularization
   * Errors, SVM
 
-* [Day-2](/Notes/Day_2.html)
+* [Day-2](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_2.html)
   * Logistic Regression
   * Logistic Vs Linear
   * Decision Tree - Entropy, IG, CART
@@ -16,7 +16,7 @@
   * Randomized SearchCV, GridSearch, BaysianSearchCV
   * ZCA Whitening
 
-* [Day-3](/Notes/Day_3.html)
+* [Day-3](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_3.html)
   * Heteroscedasticity in regression
   * Multicollinearity
   * MBA, Association Rule Mining
@@ -25,7 +25,7 @@
   * Plots, Error Types,Outliers, Distributions
   * Data Normalization Methods, Normalization vs Standardisation
 
-* [Day-4](/Notes/Day_4.html)
+* [Day-4](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_4.html)
   * Upsampling and downsampling
   * Statistical test - Chi-square, ANOVA test, Z statics,T statics, F statics,Hypothesis Testing
   * Central Limit Theorem, Correlation
@@ -34,40 +34,40 @@
   * Autoencoders, CNN - Layers, Popular Models
   * Bias, Learning Rate
 
-* [Day-5](/Notes/Day_5.html)
+* [Day-5](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_5.html)
   * Epochs, Batch Size, Dropout
   * Hyper-parameter, Activation Function
   * Vanishing gradient problem
   * Transfer Learning
   * VGG16, RESNET, ImageNet, DarkNet, YOLO
 
-* [Day-6](/Notes/Day_6.html)
+* [Day-6](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_6.html)
   * NLP, Tokenisation, Stemming, Lemmatisation
   * Bag of Words, TFIDF, Word2Vec, Doc2Vec
   * Time-Series forecasting
   * Time Series Vs Regression
   * Stationary Vs Non Stationary Data
 
-* [Day-7](/Notes/Day_7.html)
+* [Day-7](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_7.html)
   * Make data stationery from non-stationary in time series.
   * ACF (auto-correlation function), PACF (partial autocorrelation function)
   * Augmented Dickey-Fuller Test
   * Time Series Analysis
   * Moving Average, Exponential Smoothening
 
-* [Day-8](/Notes/Day_8.html)
+* [Day-8](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_8.html)
   * Tensorflow 2.0, Architecture, Keras
   * Tensors, Tensorboard
   * CNN vs RNN
 
-* [Day-9](/Notes/Day_9.html)
+* [Day-9](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_9.html)
   * Machine Learning, Online ML
   * Unsupervised Segmentation
   * Out-of-core Learning
   * Model Parameters, Hyper-parameters
   * Cross-Validation
 
-* [Day-10](/Notes/Day_10.html)
+* [Day-10](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_10.html)
   * Recommendation Systems
   * SAS, R, Python
   * Data Analysis, ML Process aspects
@@ -78,7 +78,7 @@
   * Data Augmentation
   * Cross-Validation
 
-* [Day-11](/Notes/Day_11.html)
+* [Day-11](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_11.html)
   * Tensors
   * RNN, RESNET
   * Transfer Learning
@@ -86,13 +86,13 @@
   * Sobel Filter, Boltzman Machine
   * Weight Initialization
 
-* [Day-12](/Notes/Day_12.html)
+* [Day-12](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_12.html)
   * Confusion Matrix, Classification Metrics
   * Data Wrangling, Feature Selection Vs Feature Extraction
   * Polarity and subjectivity
   * ARIMA
 
-* [Day-13](/Notes/Day_13.html)
+* [Day-13](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_13.html)
   * Autoregression,
   * Autoregressive Moving Average (ARMA)
   * Autoregressive Integrated Moving Average (ARIMA)
@@ -103,7 +103,7 @@
   * Vector Autoregression Moving-Average with Exogenous Regressors (VARMAX)
   * Simple Exponential Smoothing (SES)
 
-* [Day-14](/Notes/Day_14.html)
+* [Day-14](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_14.html)
   * Alexnet
   * VGGNet
   * VGG16
@@ -112,7 +112,7 @@
   * GoogleNet/ Inception
   * LeNet-5
  
-* [Day-15](/Notes/Day_15.html)
+* [Day-15](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_15.html)
   * Autoencoder
   * Text-Similarity, Text-Mining
   * Dropout, FP
@@ -120,14 +120,14 @@
   * Topic Modeling
   * Hidden Markov Models (HMM)
 
-* [Day-16](/Notes/Day_16.html)
+* [Day-16](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_16.html)
   * Statistics Learning
   * ANOVA, ANCOVA, MANOVA, MANCOVA
   * t-test, Z-Test, Chi-Square Test
   * KNN Regression vs KNN Classifier
   * Correlation and the Covariance
   
-* [Day-17](/Notes/Day_17.html)
+* [Day-17](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_17.html)
   * ERM (Empirical Risk Minimization)
   * PAC (Probably Approximately Correct)
   * ELMo
@@ -138,7 +138,7 @@
   * XLNet
   * Transformer
   
-* [Day-18](/Notes/Day_18.html)
+* [Day-18](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_18.html)
   * Levenshtein Algorithm
   * Soundex
   * Constituency parse
@@ -148,7 +148,7 @@
   * Expectation-Maximization Algorithm(EM)
   * Word Sense Disambiguation (WSD)
   
-* [Day-19](/Notes/Day_19.html)
+* [Day-19](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_19.html)
   * LSI(Latent Semantic Indexing)
   * Named Entity Recognition
   * Perplexity
@@ -159,7 +159,7 @@
   * Encoder-Decoder Architecture
   * Context2Vec
   
-* [Day-20](/Notes/Day_20.html)
+* [Day-20](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_20.html)
   * Event2Mind in NLP
   * Situations with Adversarial Generations (SWAG) in NLP
   * Pix2Pix network
@@ -170,7 +170,7 @@
   * Lingvo model
   * Generative Adversarial Network (GAN)
   
-* [Day-21](/Notes/Day_21.html)
+* [Day-21](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_21.html)
   * Grad-CAM architecture
   * Squeeze-net architecture
   * ZFNet architecture 
@@ -180,7 +180,7 @@
   * FractalNet Architecture
   * SSPNet architecture
   
-* [Day-22](/Notes/Day_22.html)
+* [Day-22](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_22.html)
   *  V-Net (Volumetric Convolution) Architecture with related to Biomedical Image Segmentation.
   * Highway Networks- Gating Function to highway 
   * DetNAS:  Neural  Architecture  Search(NAS)  on  Object Detection
@@ -191,7 +191,7 @@
   * LexNLP package
   * Architecture of LeNet-5
 
-* [Day-23](/Notes/Day_23.html)
+* [Day-23](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_23.html)
   * Overfeat in Object detection
   * Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction
   * Object detection approach using MR-CNN
@@ -201,7 +201,7 @@
   * Adversarial Examples Improve Image Recognition
   * NLP on News headlines to predict index trends
 
-* [Day-24](/Notes/Day_24.html)
+* [Day-24](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_24.html)
   * Spatial Transformer Network (STN) for image classification.
   * Natural Language Decathlon (decaNLP)
   * Universal Transformers 
@@ -211,7 +211,7 @@
   * End to End memory networks 
   * LinkNet
   
-* [Day-25](/Notes/Day_25.html)
+* [Day-25](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_25.html)
   * Wide Residual Networks (WRN)
   * SIMCO: SIMilarity-based object Counting
   * Voice-Face Cross-modal Matching and Retrieval
@@ -222,7 +222,7 @@
   * TENER: Adapting Transformer Encoder for Name Entity  Recognition
   * Subword ELMo
 
-* [Day-26](/Notes/Day_26.html)
+* [Day-26](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_26.html)
   * DCGANs  (Deep  Convolutional  Generative  Adversarial Networks)
   * EnAET: Self-Trained Ensemble AutoEncoding Transformations for Semi-Supervised Learning
   * Data Embedding Learning
@@ -233,7 +233,7 @@
   * DSReg: Using Distant Supervision as a Regularizer 
   * Multimodal Emotion Classification
 
-* [Day-27](/Notes/Day_27.html)
+* [Day-27](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_27.html)
   * Caption Images with Two-Stream Attention and  Sentence Auto-Encoder 
   * PQ-NET: A Generative Part Seq2Seq Network for 3D Shapes
   * EDIT: Exemplar-Domain Aware Image-to-Image Translation
@@ -244,7 +244,7 @@
   * D3S – A Discriminative Single Shot Segmentation Tracker
   * DRNet - Dissect and Reconstruct the Convolutional Neural Network
 
-* [Day-28](/Notes/Day_28.html)
+* [Day-28](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_28.html)
   * StructEdit(Learning Structural Shape Variations)
   * EmpGAN:  Multi-resolution  Interactive  Empathetic  Dialogue Generation
   * G-TAD: Sub-Graph Localization for Temporal Action Detection
@@ -254,7 +254,7 @@
   * oops! Predicting Unintentional Action in Video 
   * FairyTED: A Fair Rating Predictor for TED Talk Data
 
-* [Day-29](/Notes/Day_29.html)
+* [Day-29](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_29.html)
   * SuperGlue- Learning  Feature  Matching  with  Graph  Neural Networks
   * MixNMatch - Multifactor Disentanglement and Encoding for Conditional Image Generation
   * FAN: Feature Adaptation Network
@@ -263,7 +263,7 @@
   * SpoC: Spoofing Camera Fingerprints
   * JEC-QA: A Legal-Domain Question Answering Dataset
 
-* [Day-30](/Notes/Day_30.html)
+* [Day-30](https://paulsudarshan.github.io/ml-dl-notes/Notes/Day_30.html)
   * Face Recognition and Identification system Project
 
  
