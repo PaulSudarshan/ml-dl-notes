@@ -48,20 +48,20 @@
 
 * [Dim-Reduction-Part-1](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/22-Dim-Reduction-Part-1.html)
 
-* [Backward--Forward-Feature-Selection-PART-2](https://paulsudarshan.github.io/ml-dl-notes/23.-Backward--Forward-Feature-Selection-PART-2.html)
+* [Backward--Forward-Feature-Selection-PART-2](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/23.-Backward--Forward-Feature-Selection-PART-2.html)
 
-* [Feature-Extraction-Part-3](https://paulsudarshan.github.io/ml-dl-notes/24.-Feature-Extraction-Part-3.html)
+* [Feature-Extraction-Part-3](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/24.-Feature-Extraction-Part-3.html)
 
-* [Clustering](https://paulsudarshan.github.io/ml-dl-notes/25.-Clustering.html)
+* [Clustering](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/25.-Clustering.html)
 
-* [K_means-Clustering](https://paulsudarshan.github.io/ml-dl-notes/26.-K_means-Clustering.html)
+* [K_means-Clustering](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/26.-K_means-Clustering.html)
 
-* [Hierarchical-clustering](https://paulsudarshan.github.io/ml-dl-notes/27.-Hierarchical-clustering.html)
+* [Hierarchical-clustering](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/27.-Hierarchical-clustering.html)
 
-* [DBSCAN](https://paulsudarshan.github.io/ml-dl-notes/28.-DBSCAN.html)
+* [DBSCAN](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/28.-DBSCAN.html)
 
-* [Clustering-Metric](https://paulsudarshan.github.io/ml-dl-notes/29.-Clustering-Metric.html)
+* [Clustering-Metric](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/29.-Clustering-Metric.html)
 
-* [PCA-N_component](https://paulsudarshan.github.io/ml-dl-notes/30.-PCA-N_component.html)
+* [PCA-N_component](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/30.-PCA-N_component.html)
 
-* [Pruning](https://paulsudarshan.github.io/ml-dl-notes/31.-Pruning.html) 
+* [Pruning](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/31.-Pruning.html) 
