@@ -26,7 +26,7 @@
 
 * [Gradient_descent](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/11-Gradient_descent.html)
 
-* [Bias-Variance_Underfit_overfit](https://paulsudarshan.github.io/ml-dl-notes/12-Bias-Variance_Underfit_overfit.html)
+* [Bias-Variance_Underfit_overfit](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/12-Bias-Variance_Underfit_overfit.html)
 
 * [Cross_Validation](https://paulsudarshan.github.io/ml-dl-notes/ml-notes/13-Cross_Validation.html)
 
